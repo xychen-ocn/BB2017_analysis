@@ -12,5 +12,5 @@ To-do items:
 
 -[] identify and separate stages during the evolution of the curve
 
--[] check inversion cloudiness using cloud fraction as those defined in the Vogel et al. (2019)
+-[x] check inversion cloudiness (cloud fraction is an available output.) and confirmed that there is stratiform cloud in BB2017.
 
