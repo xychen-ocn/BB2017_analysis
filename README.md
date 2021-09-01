@@ -18,3 +18,6 @@ To-do items:
 
 -[x] check inversion cloudiness (cloud fraction is an available output.) and confirmed that there is stratiform cloud in BB2017.
 
+-[] budget analysis for the domain mean MSE and Svl
+
+-[] check if the domain is indeed large enough based on De Roode et al. (2004)'s suggestion.
